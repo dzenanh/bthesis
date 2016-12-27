@@ -1,4 +1,4 @@
-# BSc Thesis (Vienna University of Technology) - AAL Sensor Data Cluster Analysis
+# BSc Thesis (Vienna University of Technology) - AAL Sensor Data Cluster Analysis - Dzenan Hamzic - https://dzenanhamzic.com/
 
 Data analysis experiments while writing my thesis.
 
